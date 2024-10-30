@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
   styleUrl: './quarterly-goals.component.scss'
 })
 export class QuarterlyGoalsComponent {
-  checkbox = '../assets/checkbox.svg';
-  pencil = '../assets/pencil.svg';
+  checkbox = 'assets/checkbox.svg';
+  pencil = 'assets/pencil.svg';
 
 }
